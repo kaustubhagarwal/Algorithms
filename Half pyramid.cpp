@@ -1,4 +1,4 @@
-//Star Line Pattern
+//Half pyramid Pattern
 /* This code print the following pattern
 *
 **
